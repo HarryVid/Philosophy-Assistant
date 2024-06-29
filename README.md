@@ -4,6 +4,7 @@ This project represents a philosophy assistant made using local LLama 3 model us
 
 ![Alt text](Sample.jpeg)
 ![Alt text](Sample1.jpeg)
+![Alt text](Sample2.jpeg)
 
 ## Project Overview
 
