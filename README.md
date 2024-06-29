@@ -46,4 +46,4 @@ Once the application is running, follow these steps to use it:
 4. You can also view the associated backend prompts used to get the result.
 
 ## Notes
-It could also be fun to see what type of answers you would get to non philosophical questions like in the second image :) :P
+It could also be fun to see what type of answers you would get to non philosophical questions like in the second and third image :) :P
